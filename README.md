@@ -1,2 +1,2 @@
-# Study_Unity
-참고자료: 골드메탈
+# Study Unity1
+# Studying Github
